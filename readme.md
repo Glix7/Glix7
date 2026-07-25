@@ -8,15 +8,15 @@
 <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
 <img align="right" alt="Coding" width="400" src="https://i.ibb.co/pd4Fcb6/side.gif" style="border-radius: 8%;">
 
-- 🔭 I’m currently working on **Spring Boot for Java web development<br> and exploring TensorFlow for machine learning projects.**
+- 🔭 I’m currently working on **Generative AI <br> and exploring TensorFlow for machine learning projects.**
 
-- 🌱 I’m currently learning **Django for Python web development and<br> working with React for frontend projects.**
+- 🌱 I’m currently learning **Cloud Technologies and<br> working with React for frontend projects.**
 
-- 👨‍💻 All of my projects are available at [https://harshi.tegota.com](https://harshi.tegota.com)
+- 👨‍💻 All of my projects are available at [https://harishama.in/](https://harishama.in/)
 
-- 💬 Ask me about **Flask, PyTorch, TensorFlow and React**
+- 💬 Ask me about AI Agents, Computer Vision, FastAPI, React, Docker, Linux, and LLMs 
 
-- 📫 How to reach me **harshi@tegota.com**
+- 📫 How to reach me **hello@harishama.in**
 
 - ⚡ Fun fact **Toxic for Haters.**
 
